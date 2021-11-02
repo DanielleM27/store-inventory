@@ -1,0 +1,6 @@
+autopep8==1.5.6
+greenlet==1.0.0
+peewee==3.9.4
+pycodestyle==2.7.0
+SQLAlchemy==1.4.9
+toml==0.10.2
